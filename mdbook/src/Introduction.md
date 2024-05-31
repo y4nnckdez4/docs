@@ -1,4 +1,6 @@
-## Welcome
+# Proofcast 
+
+![](./proofcast.png)
 
 Welcome to the Proofcast Documentation.
 
