@@ -10,7 +10,7 @@ This documentation provides comprehensive information on each component of the P
 # Table of Contents
 - [Introduction](./Introduction.md)
 - [TEE-VM](./TEE-VM.md)
-- [Event Attestator](./Event-attestator)
+- [Event Attestator](./Event-attestator.md)
 - [TEE Wrapper](./TEE-wrapper)
 # Light Clients
 - [BitcoinZ](./BitcoinZ.md)
