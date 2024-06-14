@@ -11,7 +11,7 @@ This documentation provides comprehensive information on each component of the P
 - [Introduction](./Introduction.md)
 - [TEE-VM](./TEE-VM.md)
 - [Event Attestator](./Event-attestator.md)
-- [TEE Wrapper](./TEE-wrapper)
+- [TEE Wrapper](./TEE-wrapper.md)
 # Light Clients
 - [BitcoinZ](./BitcoinZ.md)
 - [BitcoinT](./BitcoinT.md)
