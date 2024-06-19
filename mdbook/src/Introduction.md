@@ -1,6 +1,6 @@
 # Proofcast 
 
-![](./proofcast-logo.png)
+![](./Proofcast_Logo.jpg)
 
 Welcome to the Proofcast Documentation.
 
