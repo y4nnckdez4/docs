@@ -2,9 +2,8 @@
 
 Visit our [website](https://www.proofcast.xyz/). Stay updated with the latest news by following us on [X](https://www.x.com/proofcastlabs). Builders, developers, and curious minds are welcome to join our [Telegram group](https://t.me/proofcast_builder) to chat with the team.
 
-## [Overview](https://proofcastlabs.github.io/docs/Introduction.html#overview)
 
-Proofcast wants to democratize access to cryptographic proofs backed by Trusted Execution Environments (TEE) with the first “proving-as-a-service” solution based on trusted hardware.  
+Proofcast wants to **democratize access to cryptographic proofs backed by Trusted Execution Environments (TEE) with the first _“proving-as-a-service”_ solution based on trusted hardware.**  
 
 ### **What are TEEs?**
 
