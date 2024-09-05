@@ -8,7 +8,6 @@ This documentation provides comprehensive information on each component of the P
 **Note**: This documentation is a work in progress. Some information may be missing or may change over time.
 
 # What is Proofcast
-- [Introduction](./Introduction.md)
 - [Proving As A Service](./Proving-As-A-Service.md)
 # Products
 - [TEE-VM](./TEE-VM.md)
