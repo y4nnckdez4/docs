@@ -54,6 +54,7 @@ However, teams today face challenges in securing TEEs computation, due to fragme
 
 ### **The future of TEEs: “proving-as-a-service”**
 
+![](./Proving-as-a-service.png)
 
 Proofcast wants to become the “proving-as-a-service” standard for TEEs.
 
