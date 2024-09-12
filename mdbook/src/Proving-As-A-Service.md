@@ -3,7 +3,7 @@
 Visit our [website](https://www.proofcast.xyz/). Stay updated with the latest news by following us on [X](https://www.x.com/proofcastlabs). Builders, developers, and curious minds are welcome to join our [Telegram group](https://t.me/proofcast_builder) to chat with the team.
 
 
-Proofcast wants to **democratize access to cryptographic proofs backed by Trusted Execution Environments (TEE) with the first _“proving-as-a-service”_ solution based on trusted hardware.**  
+Proofcast is a products suite that **democratizes access to cryptographic proofs backed by Trusted Execution Environments (TEE) with the first _“proving-as-a-service”_ solution based on trusted hardware.**  
 
 ### **What are TEEs?**
 
@@ -15,41 +15,21 @@ TEEs are isolated execution environments within the main processor, where both c
 
 ### **Why it matters?**
 
-Blockchains like Ethereum are evolving into a modular stack, where multiple specialized layers (settlement, execution, consensus, data availability) outsource functions and exchange data with each other.
+The transition of blockchain infrastructure to a modular design—such as the separation of settlement and execution in Ethereum—has created a demand for **coprocessors**. These are designed to offload on-chain computation to specialized layers optimized for efficiency and cost, enabling data-intensive and computation-heavy applications.
 
-In particular, the decoupling between settlement and execution layers has given rise to the sector of **coprocessors**, execution layers designed to handle heavier computation more cheaply and efficiently.
+Cryptographic proofs, particularly succinct proofs, have become the standard to ensure the security, integrity, and confidentiality of these off-chain computations
 
-However, they must commit to settlement layers via cryptographic proofs to ensure security and integrity across the system.
 
-### **The limit of zk-proofs**
+### **The limit of zk-proofs & the future of TEEs**
 
-The ascent of zero-knowledge proofs has been accelerated by the introduction of zkVMs: a revolution in abstraction and user experience.
+zkVMs (like SP1 or Risc0) accelerated the adoption of zk-proofs with a revolution in abstraction and user experience, eliminating the need to design custom circuits and reducing overhead for developers.
 
-It has enabled teams to generate zk-proofs directly from a Rust program, eliminating the need to design custom circuits and reducing overhead for developers.
+We believe the same will happen with Trusted Execution Environments. 
 
-Complexity was reduced, effectively democratizing access to zk-technology.
+The next generation of on-chain applications will rely on the co-processing power provided by TEEs. Use cases like decentralized physical infrastructure networks (dePIN), decentralized AI (dAI), and on-chain gaming cannot be fully supported by zk technology alone.
 
-We believe the same should happen with Trusted Execution Environments. 
+However, many teams today face the challenge of building trusted hardware solutions from the ground up. They must develop custom applications and code, all while navigating fragmentation between various TEEs (like Intel SGX, AWS Nitro) and diverse proving networks.
 
-The next generation of on-chain applications can only be enabled by co-processing power backed by TEEs. 
-
-Use cases like dePIN, decentralized AI (dAI), on-chain gaming, and data-rich applications involving heavy computation can be offloaded off-chain in a secure way.
-
-For this type of application—representing the future of real-world utility—zk will never be a viable option.
-
-However, teams today need to secure computation, amidst fragmentation between specific TEEs (Intel SGX, AWS Nitro, etc.) and different proving networks.
-
-There is no control board or simple interface.
-
-### **We believe the same transformation should occur with Trusted Execution Environments (TEEs).**
-
-The next generation of on-chain applications can only be unlocked by leveraging co-processing power secured by TEEs.
-
-Use cases such as dePIN, decentralized AI, on-chain gaming—data-rich applications with heavy computation that can be efficiently offloaded off-chain in a secure and reliable manner.
-
-For these types of applications—representing the future of real-world utility—zk-proofs will never be a fully viable solution.
-
-However, teams today face challenges in securing TEEs computation, due to fragmentation among various TEEs (Intel SGX, AWS Nitro, etc.) and disparate proving networks without a unified control board and a simple interface, tailored to the specific needs. 
 
 ### **The future of TEEs: “proving-as-a-service”**
 
